@@ -1,8 +1,6 @@
-Olá, meu nome é Andersson,
-sou aluno de Análise e Desenvolvimento de Sistemas pela facudade Laboro,
-e estudo desenvolvimento web no meu tempo livre.
+# Olá, meu nome é Andersson
 
-Atualmente moro em São Luís-MA.
+Sou aluno de Análise e Desenvolvimento de Sistemas (ADS) pela faculdade Laboro.
 
 Sou apaixonado pela programação e pretendo evoluir na área cada vez mais.
 
